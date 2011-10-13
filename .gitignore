@@ -1,0 +1,39 @@
+syntax: glob
+
+# ------ #
+#  C++
+# ------ #
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+# ---------- #
+#  Textmate
+# ---------- #
+
+*.tmproj
+*.tmproject
+tmtags
+# ---------- #
+#  Mac OS X
+# ---------- #
+
+.DS_Store
+Icon?    
+*.orig
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
